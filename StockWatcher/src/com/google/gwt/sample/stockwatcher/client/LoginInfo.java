@@ -14,6 +14,8 @@ public class LoginInfo implements Serializable {
     return loggedIn;
   }
 
+  //swag
+  
   public void setLoggedIn(boolean loggedIn) {
     this.loggedIn = loggedIn;
   }
